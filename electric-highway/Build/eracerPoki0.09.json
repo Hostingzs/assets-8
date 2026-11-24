@@ -1,0 +1,14 @@
+{
+"companyName": "TastyAir",
+"productName": "Electric Highway",
+"dataUrl": "eracerPoki0.09.data.unityweb",
+"asmCodeUrl": "eracerPoki0.09.asm.code.unityweb",
+"asmMemoryUrl": "eracerPoki0.09.asm.memory.unityweb",
+"asmFrameworkUrl": "eracerPoki0.09.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "eracerPoki0.09.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}

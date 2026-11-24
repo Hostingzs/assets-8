@@ -1,0 +1,13 @@
+{
+"companyName": "Noodlecake",
+"productName": "Pull My Tongue",
+"dataUrl": "BuildPoki.data.unityweb",
+"asmCodeUrl": "BuildPoki.asm.code.unityweb",
+"asmMemoryUrl": "BuildPoki.asm.memory.unityweb",
+"asmFrameworkUrl": "BuildPoki.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
